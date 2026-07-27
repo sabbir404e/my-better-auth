@@ -72,7 +72,7 @@ const SignInPage = () => {
                 <div className="flex gap-2">
                     <Button type="submit">
                         <Check />
-                        Submit
+                        Sign In
                     </Button>
                     <Button type="reset" variant="secondary">
                         Reset
