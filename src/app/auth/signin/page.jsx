@@ -15,7 +15,7 @@ const SignInPage = () => {
                 email: userData.email,
                 password: userData.password,
                 rememberMe: true,
-                callbackURL: '/'
+                callbackURL: '/dashboard'
             
             });
             
